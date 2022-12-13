@@ -1,14 +1,14 @@
 <template>
-  <FirstComponent />
+  <PrimeiroComponente />
 </template>
 
 <script>
-  import FirstComponent from './components/FirstComponent.vue'
+  import PrimeiroComponente from './components/PrimeiroComponente.vue'
 
   export default {
     name: 'App',
     components: {
-      FirstComponent
+      PrimeiroComponente
     }
   }
 </script>
